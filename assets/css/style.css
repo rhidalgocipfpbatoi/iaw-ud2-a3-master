@@ -1,0 +1,14 @@
+table, th, td {
+    border: 1px solid black;
+    width:150px; text-align: center;
+    cellpadding: 20px;
+}
+.stars {
+    background-color: beige;
+}
+th {
+    background-color: antiquewhite;
+}
+.selected {
+    background-color: greenyellow;
+}
